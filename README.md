@@ -1,2 +1,2 @@
-# E-commerce-template
+# E-commerce-App-template
 E-Shopping App
